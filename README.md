@@ -306,6 +306,6 @@ This is the **public showcase** for Rafaygen. The application source code — th
 
 **Designed, engineered and shipped solo — end to end.**
 
-© 2026 Rafay · All rights reserved · See [LICENSE](LICENSE)
+© 2026 Rafaygen · All rights reserved · See [LICENSE](LICENSE)
 
 </div>
