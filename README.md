@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://rafaygen.space">
-  <img src="./banner.gif" width="100%" alt="Rafaygen — live preview" />
+  <img src="./demo.webp" width="100%" alt="Rafaygen — live walkthrough" />
 </a>
 
 <br/><br/>
