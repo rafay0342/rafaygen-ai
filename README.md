@@ -6,11 +6,11 @@
 
 **One chat box. Many models. Autonomous routing. Real artifacts.**
 
-[![Live](https://img.shields.io/badge/live-rafaygen.cloud-2ea44f?style=for-the-badge)](https://rafaygen.cloud)
+[![Live](https://img.shields.io/badge/live-rafaygen.space-2ea44f?style=for-the-badge)](https://rafaygen.space)
 [![Status](https://img.shields.io/badge/status-in%20production-blue?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/license-proprietary-red?style=for-the-badge)](LICENSE)
 
-[**🚀 Try it live → rafaygen.cloud**](https://rafaygen.cloud)
+[**🚀 Try it live → rafaygen.space**](https://rafaygen.space)
 
 </div>
 
@@ -102,7 +102,7 @@ This is the **public showcase** for Rafaygen. The application source code —
 the router, the generation pipelines, the prompt systems — is **proprietary and
 kept private**. This repo exists to document what Rafaygen is and what it can do.
 
-See the app for yourself: **[rafaygen.cloud](https://rafaygen.cloud)**
+See the app for yourself: **[rafaygen.space](https://rafaygen.space)**
 
 ---
 
